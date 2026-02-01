@@ -1,0 +1,4 @@
+segment,cluster_id,customer_count,marketing_strategy,retention_strategy,upsell_opportunity,resource_allocation
+VIP Champions,0,59,Exclusive VIP experiences and early access,"Dedicated account manager, loyalty rewards","Premium services, bundled packages",High - Personalized attention
+Budget Conscious,1,174,"Value-focused promotions, discount alerts","Consistent value delivery, bundle deals",Cross-sell affordable add-ons,Low-Medium - Efficient mass communication
+Regular Customers,2,117,"General promotions, seasonal campaigns",Standard loyalty program benefits,Product recommendations based on history,Medium - Balanced approach
