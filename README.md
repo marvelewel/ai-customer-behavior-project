@@ -52,22 +52,43 @@ Project ini membangun **AI Decision-Support System** yang:
 
 ## 📊 Dataset
 
-**Source:** E-commerce Customer Behavior Dataset  
+### 📥 Source
+
+> **Original Dataset:** [E-commerce Customer Behavior Dataset](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset) on Kaggle
+> 
+> Dataset Credit: This dataset is sourced from Kaggle and is synthetically generated for illustrative purposes.
+
 **Size:** 350 customers × 11 features
+
+### 📋 Overview
+
+This dataset provides a comprehensive view of customer behavior within an e-commerce platform. Each entry corresponds to a unique customer, offering a detailed breakdown of their interactions and transactions. The information facilitates nuanced analysis of customer preferences, engagement patterns, and satisfaction levels.
+
+### 📝 Column Descriptions
 
 | Feature | Type | Description |
 |---------|------|-------------|
-| Customer ID | ID | Unique identifier |
-| Gender | Categorical | Male / Female |
-| Age | Numeric | 26-43 years |
-| City | Categorical | 6 major US cities |
-| Membership Type | Categorical | Gold / Silver / Bronze |
-| Total Spend | Numeric | $410 - $1,520 |
-| Items Purchased | Numeric | 7-21 items |
-| Average Rating | Numeric | 3.0 - 4.9 |
-| Discount Applied | Boolean | TRUE / FALSE |
-| Days Since Last Purchase | Numeric | 9-63 days |
-| Satisfaction Level | Categorical | Satisfied / Neutral / Unsatisfied |
+| Customer ID | Numeric | Unique identifier assigned to each customer |
+| Gender | Categorical | Gender of the customer (Male / Female) |
+| Age | Numeric | Age of the customer (26-43 years) |
+| City | Categorical | City of residence (6 major US cities) |
+| Membership Type | Categorical | Type of membership (Gold / Silver / Bronze) |
+| Total Spend | Numeric | Total monetary expenditure ($410 - $1,520) |
+| Items Purchased | Numeric | Total number of items purchased (7-21) |
+| Average Rating | Numeric | Average rating given for purchased items (3.0 - 4.9) |
+| Discount Applied | Boolean | Whether a discount was applied (TRUE / FALSE) |
+| Days Since Last Purchase | Numeric | Days since most recent purchase (9-63 days) |
+| Satisfaction Level | Categorical | Overall satisfaction (Satisfied / Neutral / Unsatisfied) |
+
+### 💡 Potential Use Cases
+
+- **Customer Segmentation** - Categorize customers based on demographics, spending habits, and satisfaction
+- **Satisfaction Analysis** - Investigate factors influencing customer satisfaction
+- **Promotion Strategy** - Assess impact of discounts on customer spending
+- **Retention Strategies** - Develop targeted retention based on purchase recency
+- **Geographic Insights** - Explore regional variations in customer behavior
+
+> ⚠️ **Note:** This dataset is synthetically generated for illustrative purposes. Any resemblance to real individuals or scenarios is coincidental.
 
 ---
 
